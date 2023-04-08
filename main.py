@@ -1,1 +1,2 @@
-print("Hello World")
+import colorama
+print(dir(colorama))
